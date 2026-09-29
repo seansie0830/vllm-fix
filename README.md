@@ -18,7 +18,7 @@ Easy, fast, and cheap LLM serving for everyone
 For events, please visit [vllm.ai/events](https://vllm.ai/events) to join us.
 
 ---
-
+> note , this is the fixing repo on the issue : #59089
 ## About
 
 vLLM is a fast and easy-to-use library for LLM inference and serving.
